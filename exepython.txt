@@ -2,6 +2,7 @@
 '''a='bhuvi'
 b=a[::-1]
 print(b)'''
+
 #maximum element in array
 '''
 a=[1,2,3,4,6,9,5]
